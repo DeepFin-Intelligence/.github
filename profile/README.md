@@ -1,4 +1,5 @@
-About DeepFin-Intelligence
+## About DeepFin-Intelligence
+
 DeepFin-Intelligence Lab is an open research alliance bridging top-tier academic institutions and financial industry leaders. Our mission is to advance the frontier of Financial AI by translating rigorous academic research into robust, real-world applications.
 
 We go beyond standard benchmarks to explore the deep convergence of artificial intelligence and complex financial workflows. Our core research initiatives include:
